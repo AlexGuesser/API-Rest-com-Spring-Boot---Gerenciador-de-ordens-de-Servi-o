@@ -1,0 +1,1 @@
+alter table ordem_servico change data_finalizao data_finalizacao datetime;
